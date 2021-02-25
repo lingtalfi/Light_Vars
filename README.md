@@ -61,6 +61,10 @@ vars:
 History Log
 =============
 
+- 1.0.2 -- 2021-02-25
+
+    - add light variable concept
+  
 - 1.0.1 -- 2021-02-25
 
     - add service->resolveContainerNotation method

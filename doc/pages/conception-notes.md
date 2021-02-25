@@ -12,6 +12,19 @@ We also provide some variable resolution utilities, to make it easier to use var
 
 
 
+
+Light variables
+------------
+2021-02-25
+
+
+A light variable is a variable stored in our variable container.
+
+
+
+
+
+
 History, the original idea behind the variable container
 ----------
 2021-02-25
