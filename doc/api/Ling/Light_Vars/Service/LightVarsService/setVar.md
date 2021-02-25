@@ -55,7 +55,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [LightVarsService::setVar](https://github.com/lingtalfi/Light_Vars/blob/master/Service/LightVarsService.php#L41-L44)
+See the source code for method [LightVarsService::setVar](https://github.com/lingtalfi/Light_Vars/blob/master/Service/LightVarsService.php#L42-L45)
 
 
 See Also

@@ -61,6 +61,10 @@ vars:
 History Log
 =============
 
+- 1.0.1 -- 2021-02-25
+
+    - add service->resolveContainerNotation method
+  
 - 1.0.0 -- 2021-02-25
 
     - initial commit

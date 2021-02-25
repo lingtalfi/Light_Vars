@@ -4,6 +4,7 @@
 namespace Ling\Light_Vars\Service;
 
 
+use Ling\ArrayVariableResolver\ArrayVariableResolverUtil;
 use Ling\Bat\BDotTool;
 use Ling\Light_Vars\Exception\LightVarsException;
 
@@ -70,5 +71,32 @@ class LightVarsService
         return $res;
 
     }
+
+
+    /**
+     * Resolves the container variables in the given string, if they are written in container notation.
+     *
+     * The container notation is like ${this}:
+     *
+     * - a dollar symbol followed by an opening curly bracket
+     * - the dot path to the variable to resolve (using the @page(bdot notation))
+     * - a closing bracket
+     *
+     *
+     *
+     *
+     * @param string $str
+     * @return string
+     */
+    public function resolveContainerNotation(string $str): string
+    {
+        $u = new ArrayVariableResolverUtil();
+        $arr = [
+            "str" => $str,
+        ];
+        $u->resolve($arr, $this->vars);
+        return $arr["str"];
+    }
+
 
 }

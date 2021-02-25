@@ -46,7 +46,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [LightVarsService::__construct](https://github.com/lingtalfi/Light_Vars/blob/master/Service/LightVarsService.php#L26-L29)
+See the source code for method [LightVarsService::__construct](https://github.com/lingtalfi/Light_Vars/blob/master/Service/LightVarsService.php#L27-L30)
 
 
 See Also

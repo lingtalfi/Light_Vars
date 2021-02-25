@@ -66,7 +66,7 @@ Exceptions thrown
 
 Source Code
 ===========
-See the source code for method [LightVarsService::getVar](https://github.com/lingtalfi/Light_Vars/blob/master/Service/LightVarsService.php#L63-L72)
+See the source code for method [LightVarsService::getVar](https://github.com/lingtalfi/Light_Vars/blob/master/Service/LightVarsService.php#L64-L73)
 
 
 See Also
@@ -74,5 +74,5 @@ See Also
 
 The [LightVarsService](https://github.com/lingtalfi/Light_Vars/blob/master/doc/api/Ling/Light_Vars/Service/LightVarsService.md) class.
 
-Previous method: [setVar](https://github.com/lingtalfi/Light_Vars/blob/master/doc/api/Ling/Light_Vars/Service/LightVarsService/setVar.md)<br>
+Previous method: [setVar](https://github.com/lingtalfi/Light_Vars/blob/master/doc/api/Ling/Light_Vars/Service/LightVarsService/setVar.md)<br>Next method: [resolveContainerNotation](https://github.com/lingtalfi/Light_Vars/blob/master/doc/api/Ling/Light_Vars/Service/LightVarsService/resolveContainerNotation.md)<br>
 
