@@ -55,7 +55,7 @@ Returns string.
 
 Source Code
 ===========
-See the source code for method [LightVarsService::resolveContainerNotation](https://github.com/lingtalfi/Light_Vars/blob/master/Service/LightVarsService.php#L91-L99)
+See the source code for method [LightVarsService::resolveContainerNotation](https://github.com/lingtalfi/Light_Vars/blob/master/Service/LightVarsService.php#L101-L109)
 
 
 See Also
@@ -63,5 +63,5 @@ See Also
 
 The [LightVarsService](https://github.com/lingtalfi/Light_Vars/blob/master/doc/api/Ling/Light_Vars/Service/LightVarsService.md) class.
 
-Previous method: [getVar](https://github.com/lingtalfi/Light_Vars/blob/master/doc/api/Ling/Light_Vars/Service/LightVarsService/getVar.md)<br>
+Previous method: [getVars](https://github.com/lingtalfi/Light_Vars/blob/master/doc/api/Ling/Light_Vars/Service/LightVarsService/getVars.md)<br>
 

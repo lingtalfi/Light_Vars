@@ -74,6 +74,16 @@ class LightVarsService
 
 
     /**
+     * Returns all the vars stored in this instance.
+     *
+     * @return array
+     */
+    public function getVars(): array{
+        return $this->vars;
+    }
+
+
+    /**
      * Resolves the container variables in the given string, if they are written in container notation.
      *
      * The container notation is like ${this}:
